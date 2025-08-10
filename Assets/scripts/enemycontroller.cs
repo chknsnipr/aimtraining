@@ -25,12 +25,13 @@ public class enemycontroller : MonoBehaviour
 
 
             Destroy(gameObject);
-            if (end >= 2)
+        }
+        if (end >= 1.2f)
             {
                 Destroy(gameObject);
-            }
+            }   
 
-        }
+        
 
     }
     private void OnTriggerEnter(Collider other)
