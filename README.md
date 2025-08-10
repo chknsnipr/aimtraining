@@ -3,4 +3,5 @@ to instal: download demo link or find aimtraining in releases.
 after installed extract everything.
 run aimtraining applicaton.
 if windows sercurity prompts . click runanyway.
+wait for game to run.
 play the game . to exit press windows button and close app.
